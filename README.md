@@ -1,6 +1,17 @@
-# Data_Visualization_Project
-## US Census Demographic Data is being used for Data analysis and visualization to showcase findings around Transportation system.
-1 . Which states have the best transportation?
+# Udacity : Data Visualization Project
+
+# Project Overview
+
+Objective of this project to apply Data analysis skills along with data visaulization and prepare/publish analysis into dashboard or story format. 
+US Census Demographic Data is being used for Data analysis and visualization to showcase various findings and pictorical presentation.
+
+# Source of DataSet
+
+Downloded data from Udacity material.
+
+# Area of Analysis.
+
+1 . **Transportation System**
 
 Certainly this is very subjective questions and need to assess lots of factors to conclude but in Dataset, we have following columns related with transportation so we will use them to make some analysis.
 
@@ -23,7 +34,7 @@ With the help of Tableau, we have prepared Data Visualization Story along with F
 
 https://public.tableau.com/views/DS_Tableau_Project_Story1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-2. Population density in each state, gender based count, various communities and their % of population.
+2. **Population density & Diversity.**
 
 In US cencus data, we have data about population in each states/counties along with total number of Men & Women. We also have % population of various community like Asian, black, hispanice, Native, White, pacific. 
 Some analysis around this data can be useful for various purposes like :
