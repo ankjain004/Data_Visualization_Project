@@ -9,6 +9,10 @@ US Census Demographic Data is being used for Data analysis and visualization to 
 
 Downloded data from Udacity material.
 
+# Tools Used
+
+Tableau desktop & Tableau public.
+
 # Area of Analysis.
 
 **1. Transportation System**
