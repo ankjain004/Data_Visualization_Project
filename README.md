@@ -19,11 +19,11 @@ Tableau desktop & Tableau public.
 
 Certainly this is very subjective questions and need to assess lots of factors to conclude but in Dataset, we have following columns related with transportation so we will use them to make some analysis.
 
-Drive   : Percent commuting alone in a car, van, or truck
-Carpool : Percent carpooling in a car, van, or truck
-Transit(Public Transport) : Percent commuting on public transportation
-Walk : Percent walking to work
-OtherTransp : Percent commuting via other means
+1. Drive   : Percent commuting alone in a car, van, or truck.
+2. Carpool : Percent carpooling in a car, van, or truck.
+3. Transit(Public Transport) : Percent commuting on public transportation.
+4. Walk : Percent walking to work.
+5. OtherTransp : Percent commuting via other means.
 
 There is another column "MeanCommute Mean commute time (minutes)", but there is no direct relationship of its value with other columns.
 
