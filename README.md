@@ -22,3 +22,19 @@ We will also see modes of transport usage by people in high populated and less p
 With the help of Tableau, we have prepared Data Visualization Story along with Filter with States. So user can select any state or set of states to see % of transport mode. 
 
 https://public.tableau.com/views/DS_Tableau_Project_Story1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+2. Population density in each state, gender based count, various communities and their % of population.
+
+In US cencus data, we have data about population in each states/counties along with total number of Men & Women. We also have % population of various community like Asian, black, hispanice, Native, White, pacific. 
+Some analysis around this data can be useful for various purposes like :
+
+1. Launching new business targetting to specific community. 
+2. Organize festive events on States/Counties based on % population.
+3. Evacuation operations by Home country. 
+4. Migrants preferred State/County by specific region of people. 
+
+There could be many more business case of such data analysis. 
+
+## Tableau Public Reference
+
+https://public.tableau.com/shared/76HCG8ZHN?:display_count=n&:origin=viz_share_link
