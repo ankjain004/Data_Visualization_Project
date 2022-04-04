@@ -11,7 +11,7 @@ Downloded data from Udacity material.
 
 # Area of Analysis.
 
-1 . **Transportation System**
+**1. Transportation System**
 
 Certainly this is very subjective questions and need to assess lots of factors to conclude but in Dataset, we have following columns related with transportation so we will use them to make some analysis.
 
@@ -34,7 +34,7 @@ With the help of Tableau, we have prepared Data Visualization Story along with F
 
 https://public.tableau.com/views/DS_Tableau_Project_Story1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-2. **Population density & Diversity.**
+**2. Population density & Diversity.**
 
 In US cencus data, we have data about population in each states/counties along with total number of Men & Women. We also have % population of various community like Asian, black, hispanice, Native, White, pacific. 
 Some analysis around this data can be useful for various purposes like :
