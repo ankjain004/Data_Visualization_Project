@@ -7,7 +7,7 @@ US Census Demographic Data is being used for Data analysis and visualization to 
 
 # Source of DataSet
 
-Downloded data from Udacity material.
+Downloded dataset from Udacity.
 
 # Tools Used
 
